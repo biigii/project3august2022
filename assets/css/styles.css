@@ -1,3 +1,93 @@
-body {
-  background-color:  lightyellow;
+#heading {
+  background-color: lightgreen;
+}
+
+#heading {
+  background-color: yellow;
+}
+
+.heading {
+  background-color: aqua;
+}
+
+.heading {
+  background-color: red;
+}
+
+h1 {
+  color: red;
+  background-color: blue;
+  background-color: blueviolet;
+}
+
+/* .hotdog {
+  background-color: lightblue;
+}
+
+.mustard {
+  background-color: red;
+} */
+
+.hotdog h3 {
+  color: red;
+}
+
+.hotdog h5 {
+  background-color: purple;
+}
+
+/* .hotdog .mustard {
+  color: pink;
+  background-color: orange;
+} */
+
+nav a {
+  color: black;
+  font-size: 30px;
+}
+
+/* p {
+  color: red
+} */
+
+p.mustard {
+  /* color: red; */
+}
+
+/* .content {
+  color: red;
+} */
+
+section.content {
+  color: blue;
+}
+
+/* section.content .text {
+  color: green;
+} */
+
+section.content p.text {
+  color: green;
+}
+
+section.content h3.text{
+  color: orangered
+}
+
+section.content.text {
+  /* this does not exist */
+}
+
+h5.content {
+  color: pink;
+}
+
+.wrapper img {
+  /* styling for image tag inside section */
+}
+.wrapper h2 {
+
+}
+.wrapper p {
+  
 }
